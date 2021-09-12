@@ -1,4 +1,4 @@
-%{
+%{//vowel or consonant
 //macros of c program
 %}
 
