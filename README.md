@@ -3,19 +3,23 @@
 Day 1 :
 
 Problem 1 - To find if digit or not.
+
             Sample Input : 8
                            abc
+                           
             Sample Output : digit
                             not digit
                             
 Day 2 :
 
 Problem 1 - To find if letter or digit.
+
             Sample Input : 2019UGCS017R 
             
             Sample Output: 
             
 Problem 2 - To find only letters or not.
+
             Sample Input: abc
                           2
             
@@ -23,6 +27,7 @@ Problem 2 - To find only letters or not.
                            characters other than letters
                            
 Problem 3 - To find uppercase & lowercase letters.
+
             Sample Input: abc
                           ABC
                           12
@@ -34,6 +39,7 @@ Problem 3 - To find uppercase & lowercase letters.
 Day 3 :
 
 Problem 1 - To find Vowel or consonant.
+
             Sample Input: abc
                           a
                           B
