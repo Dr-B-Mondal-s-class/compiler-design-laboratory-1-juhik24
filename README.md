@@ -49,3 +49,41 @@ Problem 1 - To find Vowel or consonant.
             Sample Output: contains both vowel(s) and consonant(s)
                            contains only vowel(s)
                            contains only consonant(s)
+                           
+Day 4 :
+
+Problem 1 - Lex program for recognizing keywords.
+
+            Sample Input: if
+                          not
+                          for
+                          man
+                          
+            Sample Output: found a keyword if
+                           No match
+                           found a keyword for
+                           No match
+                           
+Problem 2 - Lex program to determine whether input is an identifier
+
+            Sample Input: INT
+                          12
+                          FLOAT
+                          a1_b
+            
+            Sample Output: valid identifier INT
+                           invalid identifier
+                           valid identifier FLOAT
+                           invalid identifier
+                           
+ Problem 3 - Lex program to display PLUS for + and GE for >
+ 
+             Sample Input: +
+                           -
+                           <=
+                           >=
+             
+             Sample Output: PLUS
+                            MINUS
+                            LE
+                            GE
