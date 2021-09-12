@@ -1,4 +1,4 @@
-%{
+%{//lex program to display PLUS for + and GE for >
 // 27/08/2021_3v1
 %}
 
