@@ -1,4 +1,4 @@
-%{
+%{//lex program to find only letters or not
 //macros of c program
 %}
 WS [\t]+
