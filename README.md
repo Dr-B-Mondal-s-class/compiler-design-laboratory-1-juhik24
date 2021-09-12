@@ -14,9 +14,11 @@ Day 2 :
 
 Problem 1 - To find if letter or digit.
 
-            Sample Input : 2019UGCS017R 
+            Sample Input : 12
+                           abc
             
-            Sample Output: 
+            Sample Output: digits
+                           letters
             
 Problem 2 - To find only letters or not.
 
