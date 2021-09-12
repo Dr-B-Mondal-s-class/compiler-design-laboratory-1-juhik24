@@ -1,4 +1,4 @@
-%{
+%{//lex program for recognizing keywords
 // macros of c program
 #include<stdio.h>
 char* val;
