@@ -1,4 +1,4 @@
-%{
+%{//lex program to find uppercase and lowercase letters
 //macros of c program
 %}
 
