@@ -1,4 +1,4 @@
-%{
+%{//lex program to find digit or not
 // macros of c program
 %}
 
