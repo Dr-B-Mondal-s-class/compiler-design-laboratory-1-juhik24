@@ -194,3 +194,34 @@ Problem 3 - Lex program to count number of characters in a given input file.
             Sample Input: sample.txt
             Hello, I'm Juhi.
             Sample Output: Total number of characters:16
+
+Day 7:
+
+Problem 1 - Lex program to count number of characters, whitespaces, tabs and digits in the given input file.
+
+            Sample Input: Hello, I'm Juhi.
+                          I'm a CSE pre-final year student.
+                          
+            Sample Output: Total Characters detected : 51
+                             No. of tabs : 0
+                             No. of Lines: 2 
+                             No. of white spaces: 7 
+                             Other Characters: 42
+
+Problem 2 - Lex program to count number of lexemes in the given input file.
+
+            Sample Input: int sum = 8+6;
+            
+            Sample Output:   No. of lexemes=7
+                           No. of keywords=1
+                           No. of identifiers=1
+                           No. of integers=2
+                           No. of fractions=0
+                           No. of operators=3
+
+Problem 3 - Lex program to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.
+
+            Sampple Input: int sum  =  6+3;
+                           cout <<  sum;
+                           
+            Sample Output: int sum = 6+3;cout << sum; 
