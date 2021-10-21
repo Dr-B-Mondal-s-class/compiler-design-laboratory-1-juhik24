@@ -170,4 +170,27 @@ Problem 2 - Lex program to verify valid URL or not.
             
 Day 6:
 
- 
+Problem 1 - Lex program to verify valid mobile number or not.
+
+            Sample Input: +91 8446280012
+            Sample Output: Valid Mobile No!
+
+            Sample Input: 912345578213
+            Sample Output: Invalid Mobile No!
+
+            Sample Input: +91 778945
+            Sample Output: Invalid Mobile No!
+            
+Problem 2 - Lex program to verify valid email or not.
+
+            Sample Input: juhi12@gmail.com
+            Sample Output: Valid
+
+            Sample Input: 123@gmail.co
+            Sample Output: Invalid
+            
+Problem 3 - Lex program to count number of characters in a given input file.
+
+            Sample Input: sample.txt
+            Hello, I'm Juhi.
+            Sample Output: Total number of characters:16
