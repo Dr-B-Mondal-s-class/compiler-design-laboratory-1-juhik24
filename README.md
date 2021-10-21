@@ -149,4 +149,25 @@ Day 5:
 
 Problem 1 - Lex program to count the lexemes.
 
-            Sample Input: 
+            Sample Input: int sum = 10-5;
+            Sample Output: No. of lexemes=7
+                             No. of keywords=1
+                             No. of identifiers=1
+                             No. of integers=2
+                             No. of fractions=0
+                             No. of operators=3
+
+Problem 2 - Lex program to verify valid URL or not.
+
+            Sample Input: https://google.com
+            Sample Output: Invalid URL!
+            
+            Sample Input: https://www.google.com
+            Sample Output: Valid URL!
+
+            Sample Input: https://www.yahoo.com
+            Sample Output: Valid URL!
+            
+Day 6:
+
+ 
