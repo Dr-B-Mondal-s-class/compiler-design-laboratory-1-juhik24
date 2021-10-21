@@ -1,0 +1,1 @@
+int sum = 6+3;cout << sum; 
