@@ -225,3 +225,13 @@ Problem 3 - Lex program to read from an input file, remove multiple spaces, newl
                            cout <<  sum;
                            
             Sample Output: int sum = 6+3;cout << sum; 
+
+Day 8:
+
+Problem 1 - Write a program using Lex and YACC to print 'Hello World'.
+
+            Sample Input: hi
+            Sample Output: Hello World
+            
+            Sample Input: bye
+            Sample Output: Bye World
