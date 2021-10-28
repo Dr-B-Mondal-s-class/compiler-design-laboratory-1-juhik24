@@ -228,7 +228,7 @@ Problem 3 - Lex program to read from an input file, remove multiple spaces, newl
 
 Day 8:
 
-Problem 1 - Write a program using Lex and YACC to print 'Hello World'.
+Problem 1 - Write a sample program using Lex and YACC.
 
             Sample Input: hi
             Sample Output: Hello World
