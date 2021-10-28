@@ -235,3 +235,12 @@ Problem 1 - Write a program using Lex and YACC to print 'Hello World'.
             
             Sample Input: bye
             Sample Output: Bye World
+
+Problem 2 - Write a program using Lex and YACC to check whether a string is palindrome or not.
+
+            Sample Input: aabccbaa
+            Sample Output: palindrome
+            
+            Sample Input: abc
+            Sample Output: Not palindrome 
+            
