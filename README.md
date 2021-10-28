@@ -244,3 +244,20 @@ Problem 2 - Write a program using Lex and YACC to check whether a string is pali
             Sample Input: abc
             Sample Output: Not palindrome 
             
+Day 9:
+
+Problem 1 - Write a program using Lex and YACC which accept strings that starts and ends with 0 or 1.
+
+            Sample Input: 03341
+            Sample Output: 03341 is a valid string
+            
+            Sample Input: 2345
+            Sample Output: 2345 is an invalid string.
+            
+            Sample Input: 1234567890
+            Sample Output: 1234567890 is a valid string
+            
+            Sample Input: 12266
+            Sample Output: 12266 is an invalid string.
+            
+            
