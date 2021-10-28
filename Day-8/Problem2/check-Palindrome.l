@@ -1,4 +1,4 @@
-%{//Check Palindrome
+%{//Check Palindrome or not
     #include <stdio.h>
     #include <stdlib.h>
     #include "y.tab.h"
